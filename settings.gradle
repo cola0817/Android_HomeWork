@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android_HomeWork"
 include ':app'
 include ':chapter_01'
+include ':chapter_02'
